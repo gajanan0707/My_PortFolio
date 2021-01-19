@@ -83,7 +83,7 @@ export default class About extends Component {
                 </div>
               </div>
 
-              <div className="col-md-4 text-center animate-box">
+              {/* <div className="col-md-4 text-center animate-box">
                 <div className="services color-6">
                   <span className="icon">
                     <i className="icon-phone3" />
@@ -93,7 +93,7 @@ export default class About extends Component {
                     <p>I use Instagram 4 hours a day :) </p>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </section>
