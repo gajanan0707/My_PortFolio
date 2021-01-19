@@ -18,13 +18,13 @@ export default class About extends Component {
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
                         I am a computer grad student from North Maharastra
-                        University .I love exploring new technologies{" "}
+                        University . I love exploring new technologies
                       </p>
                       <p>
                         I have started reflecting my ideas and thougths through
                         the medium of words recently so spelling and grammer
                         mistaks are very often.You can write me back if you spot
-                        any and don't want to live anymore :P{" "}
+                        any and don't want to live anymore :P
                       </p>
                     </div>
                   </div>
@@ -83,17 +83,6 @@ export default class About extends Component {
                 </div>
               </div>
 
-              {/* <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                  <span className="icon">
-                    <i className="icon-phone3" />
-                  </span>
-                  <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram 4 hours a day :) </p>
-                  </div>
-                </div>
-              </div> */}
             </div>
           </div>
         </section>
