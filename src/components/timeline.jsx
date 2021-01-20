@@ -68,8 +68,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Graduation at North Maharastra University
-                          <span>2016-2019</span>
+                          Graduation at North Maharastra University <span>2016-2019</span>
                         </h2>
                         <p>
                           I am Completed my graduation studies with major in

@@ -19,7 +19,7 @@ export default class Sidebar extends Component {
             <div className="text-center">
               <div
                 className="author-img"
-                style={{ backgroundImage: "url(images/img-2.jpg)" }}
+                style={{ backgroundImage: "url(images/about.jpg)" }}
               />
               <h1 id="colorlib-logo">
                 <a href="index.html">Gajanan Rajput</a>
@@ -83,17 +83,17 @@ export default class Sidebar extends Component {
             <div className="colorlib-footer">
               <p>
                 <small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and{" "}
+                  Made with <i className="icon-heart" aria-hidden="true" /> and
                   <i className="icon-beer" aria-hidden="true"></i>
                   <br></br>
-                  Thanks{" "}
+                  Thanks
                   <a
                     href="https://colorlib.com"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
                     Colorlib
-                  </a>{" "}
+                  </a>
                   for inspiration
                 </small>
               </p>
