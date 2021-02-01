@@ -5,7 +5,7 @@ export default class ContactForm extends React.Component {
     super(props);
     this.state = {
       name: "",
-      email: "",
+      email: "",  
     };
 
     this.handleChange = this.handleInputChange.bind(this);
