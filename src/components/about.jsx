@@ -95,7 +95,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Others</h3>
                     <p>
-                     Github, RestApi
+                     Github, RestApi, 
                     </p>
                   </div>
                 </div>

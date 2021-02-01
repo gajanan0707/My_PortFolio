@@ -5,6 +5,7 @@ import Introduction from "./components/introduction";
 import About from "./components/about";
 import Timeline from "./components/timeline";
 import Projects from './components/projects'
+import ContactForm from "./components/contact";
 
 class App extends Component {
   render() {
@@ -17,6 +18,7 @@ class App extends Component {
             <About></About>
             <Timeline></Timeline>
             <Projects></Projects>
+            <ContactForm></ContactForm>
           </div>
         </div>
       </div>
