@@ -17,14 +17,8 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a computer grad student from North Maharastra
-                        University . I love exploring new technologies
-                      </p>
-                      <p>
-                        I have started reflecting my ideas and thougths through
-                        the medium of words recently so spelling and grammer
-                        mistaks are very often.You can write me back if you spot
-                        any and don't want to live anymore :P
+                        I am a computer graduation student from North Maharastra
+                        University .
                       </p>
                     </div>
                   </div>
@@ -67,7 +61,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Programming Language</h3>
-                    <p>Angular, Django, Python, Nodejs, TypeScript, Reactjs</p>
+                    <p>Python, Nodejs, JavaScript, TypeScript</p>
                   </div>
                 </div>
               </div>
@@ -78,7 +72,31 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Database</h3>
-                    <p>MangoDb, Firebase, MySQL, Postgress</p>
+                    <p>MangoDb, Firebase, Postgress, MySQL, Sqlite</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-4 text-center animate-box">
+                <div className="services color-3">
+                  <span className="icon">
+                    <i className="icon-phone3" />
+                  </span>
+                  <div className="desc">
+                    <h3>Frameworks</h3>
+                    <p>Angular, Django, Reactjs</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-4 text-center animate-box">
+                <div className="services color-1">
+                  <span className="icon">
+                    <i className="icon-bulb" />
+                  </span>
+                  <div className="desc">
+                    <h3>Others</h3>
+                    <p>
+                     Github, RestApi
+                    </p>
                   </div>
                 </div>
               </div>

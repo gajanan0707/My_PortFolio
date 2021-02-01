@@ -29,10 +29,14 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 01</a>
+                        <a href="work.html">Ez-Shopper</a>
                       </h3>
-                      <span>Website</span>
-                      <p className="icon">
+                      <span>ECommerce Website</span>
+                      <span>
+                        <h3>Frontend: Angular 9</h3> 
+                        <h3>Backend: Firebase</h3>
+                      </span>
+                      {/* <p className="icon">
                         <span>
                           <a href="#">
                             <i className="icon-share3" />
@@ -48,7 +52,7 @@ export default class Projects extends Component {
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -64,10 +68,14 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 02</a>
+                        <a href="work.html">Tallo Web App</a>
                       </h3>
-                      <span>Animation</span>
-                      <p className="icon">
+                      <span>Business Event Managment</span>
+                      <span>
+                        <h3>Frontend: Angular 6</h3> 
+                        <h3>Backend: Firebase</h3>
+                      </span>
+                      {/* <p className="icon">
                         <span>
                           <a href="#">
                             <i className="icon-share3" />
@@ -83,7 +91,7 @@ export default class Projects extends Component {
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -99,10 +107,15 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 03</a>
+                        <a href="work.html">Lifo</a>
                       </h3>
-                      <span>Illustration</span>
-                      <p className="icon">
+                      <span>Ecommerce Website</span>
+                      <span>
+                        <h3>Frontend: Angular 10</h3> 
+                        <h3>Backend: Nodejs</h3>
+                        <h3>Database: Postgress</h3>
+                      </span>
+                      {/* <p className="icon">
                         <span>
                           <a href="#">
                             <i className="icon-share3" />
@@ -118,7 +131,7 @@ export default class Projects extends Component {
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -134,10 +147,10 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 04</a>
+                        <a href="work.html">Retool</a>
                       </h3>
-                      <span>Application</span>
-                      <p className="icon">
+                      <span>Python Script</span>
+                      {/* <p className="icon">
                         <span>
                           <a href="#">
                             <i className="icon-share3" />
@@ -153,7 +166,7 @@ export default class Projects extends Component {
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -169,10 +182,14 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 05</a>
+                        <a href="work.html">Cupid Store</a>
                       </h3>
-                      <span>Graphic, Logo</span>
-                      <p className="icon">
+                      <span>ECommerce Website</span>
+                      <span>
+                        <h3>Frontend: Django</h3> 
+                        <h3>Backend: Python</h3>
+                      </span>
+                      {/* <p className="icon">
                         <span>
                           <a href="#">
                             <i className="icon-share3" />
@@ -188,7 +205,7 @@ export default class Projects extends Component {
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -204,10 +221,13 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Work 06</a>
+                        <a href="work.html">Csr Product</a>
                       </h3>
-                      <span>Web Design</span>
-                      <p className="icon">
+                      <span>Nodejs Rest Api</span>
+                      <span>
+                        <h3>Backend: Nodejs</h3>
+                      </span>
+                      {/* <p className="icon">
                         <span>
                           <a href="#">
                             <i className="icon-share3" />
@@ -223,7 +243,7 @@ export default class Projects extends Component {
                             <i className="icon-heart" /> 49
                           </a>
                         </span>
-                      </p>
+                      </p> */}
                     </div>
                   </div>
                 </div>

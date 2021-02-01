@@ -46,6 +46,11 @@ export default class Sidebar extends Component {
                       Timeline
                     </a>
                   </li>
+                  <li>
+                    <a href="#projects" data-nav-section="projects">
+                      Recent Projects
+                    </a>
+                  </li>
                 </ul>
               </div>
             </nav>
