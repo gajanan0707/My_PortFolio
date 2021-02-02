@@ -51,6 +51,11 @@ export default class Sidebar extends Component {
                       Recent Projects
                     </a>
                   </li>
+                  <li>
+                    <a href="#contact" data-nav-section="contact">
+                      Contact Form
+                    </a>
+                  </li>
                 </ul>
               </div>
             </nav>

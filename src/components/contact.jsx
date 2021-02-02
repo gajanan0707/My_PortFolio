@@ -63,7 +63,7 @@ export default class ContactForm extends Component {
   render() {
     const { errors } = this.state;
     return (
-      <div className="wrapper">
+      <div className="wrapper" data-section="contact">
         <div className="form-wrapper">
           <h2>Create Contact Form</h2>
           <form onSubmit={this.handleSubmit} noValidate>
