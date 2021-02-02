@@ -102,7 +102,8 @@ p, div {
   
   .fullName,
   .email,
-  .password {
+  .password,
+  .subject {
     display: flex;
     flex-direction: column;
     margin-bottom: 15px;
@@ -111,9 +112,13 @@ p, div {
   .fullName {
     width: 100%;
   }
+  .subject {
+    width: 100%;
+  }
   
   .email,
-  .password {
+  .password ,
+  .subject{
     width: 100%;
   }
   
