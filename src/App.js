@@ -6,12 +6,14 @@ import About from "./components/about";
 import Timeline from "./components/timeline";
 import Projects from './components/projects'
 import ContactForm from "./components/contact";
+import { ToastContainer } from 'react-toastify';
 
 class App extends Component {
   render() {
     return (
       <div id="colorlib-page">
         <div id="container-wrap">
+        <ToastContainer />
           <Sidebar></Sidebar>
           <div id="colorlib-main">
             <Introduction></Introduction>
