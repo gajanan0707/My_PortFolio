@@ -1,13 +1,14 @@
 import firebase from "firebase";
+import {environment} from './environments/environment'
 
 const firebaseApp = firebase.initializeApp({
-  apiKey: "AIzaSyCulx3VGIvw9UbAOBOx7skRQoL4snf5JYA",
-  authDomain: "myportfolio-ae25c.firebaseapp.com",
-  projectId: "myportfolio-ae25c",
-  storageBucket: "myportfolio-ae25c.appspot.com",
-  messagingSenderId: "236927758910",
-  appId: "1:236927758910:web:cdd24337de0c61028e976f",
-  measurementId: "G-P52DHRZK8V"
+  apiKey: environment.APIKEY,
+  authDomain: environment.AUTHDOMAIN,
+  projectId:environment.PROJECTID,
+  storageBucket: environment.STORAGEBUCKET,
+  messagingSenderId: environment.MESSAGINGSENDERId,
+  appId: environment.APPID,
+  measurementId: environment.MEASUREMENTID
 });
 
 const db = firebaseApp.firestore();

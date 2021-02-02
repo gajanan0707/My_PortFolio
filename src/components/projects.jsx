@@ -29,30 +29,13 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Ez-Shopper</a>
+                        <a href="!#">Ez-Shopper</a>
                       </h3>
                       <span>ECommerce Website</span>
                       <span>
-                        <h3>Frontend: Angular 9</h3> 
+                        <h3>Frontend: Angular 9</h3>
                         <h3>Backend: Firebase</h3>
                       </span>
-                      {/* <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -68,30 +51,13 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Tallo Web App</a>
+                        <a href="!#">Tallo Web App</a>
                       </h3>
                       <span>Business Event Managment</span>
                       <span>
-                        <h3>Frontend: Angular 6</h3> 
+                        <h3>Frontend: Angular 6</h3>
                         <h3>Backend: Firebase</h3>
                       </span>
-                      {/* <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -107,31 +73,14 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Lifo</a>
+                        <a href="!#">Lifo</a>
                       </h3>
                       <span>Ecommerce Website</span>
                       <span>
-                        <h3>Frontend: Angular 10</h3> 
+                        <h3>Frontend: Angular 10</h3>
                         <h3>Backend: Nodejs</h3>
                         <h3>Database: Postgress</h3>
                       </span>
-                      {/* <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -147,26 +96,9 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Retool</a>
+                        <a href="!#">Retool</a>
                       </h3>
                       <span>Python Script</span>
-                      {/* <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -182,30 +114,13 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Cupid Store</a>
+                        <a href="!#">Cupid Store</a>
                       </h3>
                       <span>ECommerce Website</span>
                       <span>
-                        <h3>Frontend: Django</h3> 
+                        <h3>Frontend: Django</h3>
                         <h3>Backend: Python</h3>
                       </span>
-                      {/* <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -221,29 +136,12 @@ export default class Projects extends Component {
                   <div className="desc">
                     <div className="con">
                       <h3>
-                        <a href="work.html">Csr Product</a>
+                        <a href="!#">Csr Product</a>
                       </h3>
                       <span>Nodejs Rest Api</span>
                       <span>
                         <h3>Backend: Nodejs</h3>
                       </span>
-                      {/* <p className="icon">
-                        <span>
-                          <a href="#">
-                            <i className="icon-share3" />
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-eye" /> 100
-                          </a>
-                        </span>
-                        <span>
-                          <a href="#">
-                            <i className="icon-heart" /> 49
-                          </a>
-                        </span>
-                      </p> */}
                     </div>
                   </div>
                 </div>
@@ -252,7 +150,7 @@ export default class Projects extends Component {
             <div className="row">
               <div className="col-md-12 animate-box">
                 <p>
-                  <a href="#" className="btn btn-primary btn-lg btn-load-more">
+                  <a href="!#" className="btn btn-primary btn-lg btn-load-more">
                     Load more <i className="icon-reload" />
                   </a>
                 </p>

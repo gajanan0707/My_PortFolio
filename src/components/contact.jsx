@@ -2,11 +2,8 @@ import React, { Component } from "react";
 import "../css/style.css";
 import db from "../firebase";
 import firebase from "firebase";
-import { ToastContainer, toast } from 'react-toastify'; 
 
-const validEmailRegex = RegExp(
-  /^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i
-);
+const validEmailRegex = RegExp('^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$');
 const validateForm = (errors) => {
   let valid = true;
   Object.values(errors).forEach((val) => val.length > 0 && (valid = false));
@@ -57,9 +54,7 @@ export default class ContactForm extends Component {
           dataUser: data,
           timestamp: firebase.firestore.FieldValue.serverTimestamp(),
         })
-        .then(
-          toast.success("SuccessFully ContactForm Submit"),
-          event.target.reset());
+        .then(event.target.reset());
     } else {
       console.error("Invalid Form");
     }
