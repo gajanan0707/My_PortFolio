@@ -12,9 +12,7 @@ export default class Projects extends Component {
                 data-animate-effect="fadeInLeft"
               >
                 <span className="heading-meta">My Work</span>
-                <h2 className="colorlib-heading animate-box">
-                  Live Projects
-                </h2>
+                <h2 className="colorlib-heading animate-box">Live Projects</h2>
               </div>
             </div>
             <div className="row">
@@ -155,7 +153,8 @@ export default class Projects extends Component {
                         <a href="!#">Csr Product</a>
                       </h3>
                       <span>
-                      <h2 style={{ color: "#ffffff" }}>Nodejs Rest Api</h2> </span>
+                        <h2 style={{ color: "#ffffff" }}>Nodejs Rest Api</h2>{" "}
+                      </span>
                       <span className="info">
                         <h3>Backend: Nodejs</h3>
                       </span>

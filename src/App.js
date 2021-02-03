@@ -5,7 +5,7 @@ import Introduction from "./components/introduction";
 import About from "./components/about";
 import Timeline from "./components/timeline";
 import Projects from './components/projects'
-import ContactForm from "./components/contact";
+import ContactPage from "./components/contact";
 import ProjectPractice from "./components/projectPractice"
 
 class App extends Component {
@@ -20,7 +20,7 @@ class App extends Component {
             <Timeline></Timeline>
             <Projects></Projects>
             <ProjectPractice></ProjectPractice>
-            <ContactForm></ContactForm>
+            <ContactPage></ContactPage>
           </div>
         </div>
       </div>

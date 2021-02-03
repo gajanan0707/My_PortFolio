@@ -943,6 +943,8 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
+    background: #070707;
+    opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
     transition: 0.3s; }
@@ -968,7 +970,8 @@ body.offcanvas {
             -ms-border-radius: 4px;
             border-radius: 4px; }
         .project .desc .con .icon i {
-          font-size: 16px;
+          font-size: 20px;
+          font-weight:50px;
           color: #333333; }
     .project .desc h3 {
       font-family: "Quicksand", Arial, sans-serif;

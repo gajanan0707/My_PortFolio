@@ -86,9 +86,11 @@ p, div {
     padding: 	0.938em;
     border: none;
     border-radius: 4px;
-    background-color: #22223B;
-    color: #fefefe;
+    background: #ec5990;
+    color: white;
+    text-transform: uppercase;
   }
+  
   button:hover {
     background-color: #4A4E69;
     color: #fefefe;
@@ -126,4 +128,13 @@ p, div {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+  }
+
+  .p{
+    color: #bf1650;
+  }
+  
+  .p::before {
+    display: inline;
+    content: "⚠ ";
   }
