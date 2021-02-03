@@ -216,7 +216,7 @@ export default class ProjectPractice extends Component {
             <div>
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -234,7 +234,7 @@ export default class ProjectPractice extends Component {
 
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png)" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png)" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -258,7 +258,7 @@ export default class ProjectPractice extends Component {
 
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png)" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png)" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -282,7 +282,7 @@ export default class ProjectPractice extends Component {
 
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png)" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png)" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -306,7 +306,7 @@ export default class ProjectPractice extends Component {
 
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png)" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png)" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -328,7 +328,7 @@ export default class ProjectPractice extends Component {
 
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png)" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png)" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -349,7 +349,7 @@ export default class ProjectPractice extends Component {
 
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/react.png)" }}
+                style={{ backgroundImage: "url(images/project/reactjs.png)" }}
               >
                 <div className="desc">
                   <div className="con">
@@ -378,7 +378,7 @@ export default class ProjectPractice extends Component {
             <div>
               <div
                 className="project"
-                style={{ backgroundImage: "url(images/project/nodejs.png)" }}
+                style={{ backgroundImage: "url(images/project/node.png)" }}
               >
                 <div className="desc">
                   <div className="con">
