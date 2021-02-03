@@ -75,7 +75,7 @@ export default class ContactForm extends Component {
     return (
       <div className="wrapper" data-section="contact">
         <div className="form-wrapper">
-          <h2>Contact F</h2>
+          <h2>Contact Form</h2>
           <form onSubmit={this.handleSubmit} noValidate>
             <div className="fullName">
               <label htmlFor="fullName">Full Name</label>

@@ -6,6 +6,7 @@ import About from "./components/about";
 import Timeline from "./components/timeline";
 import Projects from './components/projects'
 import ContactForm from "./components/contact";
+import ProjectPractice from "./components/projectPractice"
 
 class App extends Component {
   render() {
@@ -18,6 +19,7 @@ class App extends Component {
             <About></About>
             <Timeline></Timeline>
             <Projects></Projects>
+            <ProjectPractice></ProjectPractice>
             <ContactForm></ContactForm>
           </div>
         </div>

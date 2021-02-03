@@ -13,7 +13,7 @@ export default class Projects extends Component {
               >
                 <span className="heading-meta">My Work</span>
                 <h2 className="colorlib-heading animate-box">
-                  Recent Projects
+                  Live Projects
                 </h2>
               </div>
             </div>
@@ -164,7 +164,7 @@ export default class Projects extends Component {
                 </div>
               </div>
             </div>
-            <div className="row">
+            {/* <div className="row">
               <div className="col-md-12 animate-box">
                 <p>
                   <a href="!#" className="btn btn-primary btn-lg btn-load-more">
@@ -172,7 +172,7 @@ export default class Projects extends Component {
                   </a>
                 </p>
               </div>
-            </div>
+            </div> */}
           </div>
         </section>
       </div>
