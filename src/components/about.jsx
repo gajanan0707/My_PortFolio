@@ -17,8 +17,9 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a computer graduation student from North Maharastra
-                        University .
+      Hi I am Gajanan Patil.
+      Full-Stack Devloper from Surat, Gujrat, India,
+      +1 years of experience in front-end and back-end engineering.
                       </p>
                     </div>
                   </div>
