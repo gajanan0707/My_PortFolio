@@ -16,11 +16,9 @@ export default class About extends Component {
                     <div className="about-desc">
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
-                      <p>
-      Hi I am Gajanan Patil.
-      Full-Stack Devloper from Surat, Gujrat, India,
-      +1 years of experience in front-end and back-end engineering.
-                      </p>
+                      <h4>
+                      Hi, I’m Gajanan. I'm a multi-talented human with over 2+ years of experience in Web Development. You can also call me a FullStack Developer, I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and career.
+                      </h4>
                     </div>
                   </div>
                 </div>
@@ -50,7 +48,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                      I have experience building websites in Angular, Django
+                      I have experience building websites in Django, Angular, Reacjs
                     </p>
                   </div>
                 </div>
@@ -96,7 +94,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Others</h3>
                     <p>
-                     Github, RestApi, 
+                     Github,Azure, Gitlab, Netlify,Heroku,DigitalOcean, RestApi, 
                     </p>
                   </div>
                 </div>
