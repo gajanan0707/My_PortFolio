@@ -28,13 +28,14 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Software Developer at GlobaliaSoft llp Surat{" "}
-                          <span>2020-Present</span>
+                          Software Engineer at Propelius Technology Surat,Gujrat India.
+                          <span>Oct-2019 To Sep-2021</span>
                         </h2>
                         <p>
-                          I have joined the GlobaliaSoft as a Python Developer.
-                          I am also exploring the Angular, Nodejs, TypeScript,
-                          Reactjs
+                          <h5>● Analyze user requirements.</h5>
+                          <h5>● Involved in requirement gathering, analysis, design and estimation of the assigned projects.</h5>
+                          <h5>● Write and test code, refining and rewriting it as necessary and communicate with any
+                            programmers involved in the project.</h5>
                         </p>
                       </div>
                     </div>
@@ -49,11 +50,34 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Internship at Tops Technology <span>2019-2020</span>
+                          Python Developer at GlobaliaSoft Llp Surat,Gujrat India.
+                          <span>Oct-2019 To Sep-2021</span>
                         </h2>
                         <p>
-                          I have joined the Tops Technology as a Python Intern.
-                          I am also exploring the Django Framework.
+                          <h5>● Experience in developing various web-based, client-server and distributed applications using
+                            Python, Django, NodeJs, Angular 6+, ReactJs.</h5>
+                          <h5>● Involved in requirement gathering, analysis, design and estimation of the assigned projects.</h5>
+                          <h5>● Trained and supervised new employees and provided technical support to clients and coworkers.</h5>
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          Internship at Tops Technology Surat,Gujrat India.
+                          <span>June-2019 To Sep-2019</span>
+                        </h2>
+                        <p>
+                          <h5>● Developing and Learning Python and Django based web applications.</h5>
+                          <h5>● Building Documentation of developed projects.</h5>
                         </p>
                       </div>
                     </div>
@@ -68,14 +92,14 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Graduation at North Maharastra University <span>2016-2019</span>
+                          Graduation at North Maharastra University. <span>2016 To 2019</span>
                         </h2>
                         <p>
-                          I am Completed my graduation studies with major in
-                          Bvoc(Bachelor of Vocationl in Software Developement).
-                          I have taken courses like DSA, OOPs, Computer
-                          Networks, over the years and have better understanding
-                          of these subjects.
+                          <h5>● I am Completed my graduation studies with major in
+                            Bvoc(Bachelor of Vocationl in Software Developement).
+                            I have taken courses like DSA, OOPs, Computer
+                            Networks, over the years and have better understanding
+                            of these subjects.</h5>
                         </p>
                       </div>
                     </div>
