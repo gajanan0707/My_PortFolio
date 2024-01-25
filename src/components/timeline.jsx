@@ -18,6 +18,30 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          FullStack Developer at Bitcoding Solutions Surat,Gujrat India.
+                          <span> Apr 2022 To Present</span>
+                        </h2>
+                        <p>
+                        <h5>● Developing and maintaining server-side applications using languages such as Node.js or Python Django.</h5>
+                          <h5>● Creating and maintaining client-side applications using JavaScript frameworks such as React, Angular, Django.</h5>
+                          <h5>● Designing and developing databases, and writing efficient SQL queries to manage data.</h5>
+                          <h5>● Writing unit tests and end-to-end tests to ensure the quality of the code.</h5>
+                          <h5>● Collaborating with other team members, including designers and product managers, to ensure the product meets business requirements and user needs.</h5>
+                          <h5>● Staying up-to-date with emerging technologies and industry trends to continuously improve the product and the development process.</h5>
+                        </p>
+                      </div>
+                    </div>
+                  </article>
                   <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft"
@@ -29,7 +53,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Software Engineer at Propelius Technology Surat,Gujrat India.
-                          <span>Oct-2019 To Sep-2021</span>
+                          <span> Oct-2019 To Sep-2021</span>
                         </h2>
                         <p>
                           <h5>● Analyze user requirements.</h5>
@@ -51,7 +75,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Python Developer at GlobaliaSoft Llp Surat,Gujrat India.
-                          <span>Oct-2019 To Sep-2021</span>
+                          <span> Oct-2019 To Sep-2021</span>
                         </h2>
                         <p>
                           <h5>● Experience in developing various web-based, client-server and distributed applications using
@@ -73,7 +97,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           Internship at Tops Technology Surat,Gujrat India.
-                          <span>June-2019 To Sep-2019</span>
+                          <span> June-2019 To Sep-2019</span>
                         </h2>
                         <p>
                           <h5>● Developing and Learning Python and Django based web applications.</h5>

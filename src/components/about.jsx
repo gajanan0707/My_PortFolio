@@ -17,7 +17,7 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <h4>
-                      Hi, I’m Gajanan. I'm a multi-talented human with over 2+ years of experience in Web Development. You can also call me a FullStack Developer, I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and career.
+                      Hi, I’m Gajanan. Hi, I am a full-stack web developer having over 4+ years of experience.I am always enthusiastic for learning new technologies, I don’t like to define myself by the work I’ve done. I define myself by the work I want to do. Skills can be taught, personality is inherent. I prefer to keep learning, continue challenging myself and do interesting things that matter. I like to develop expertise in a number of areas over the course of my life and career.
                       </h4>
                     </div>
                   </div>
@@ -71,7 +71,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Database</h3>
-                    <p>MangoDb, Firebase, Postgress, MySQL, Sqlite</p>
+                    <p>Postgress, MySQL, MangoDb, Firebase, Sqlite</p>
                   </div>
                 </div>
               </div>
@@ -82,7 +82,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Frameworks</h3>
-                    <p>Angular, Django, Reactjs</p>
+                    <p>Django, Flast, FastAPI, Angular, Reactjs</p>
                   </div>
                 </div>
               </div>
@@ -94,7 +94,7 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Others</h3>
                     <p>
-                     Github,Azure, Gitlab, Netlify,Heroku,DigitalOcean, RestApi, 
+                    JQuery, Ajax, Github, Azure, Gitlab, Netlify, Heroku, DigitalOcean, RestApi, AWS (lambda, s3), 
                     </p>
                   </div>
                 </div>
